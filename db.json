@@ -1019,7 +1019,224 @@
     "cover": "https://m.media-amazon.com/images/I/81DfWFBck6L._UF1000,1000_QL80_.jpg",
     "lore": "The actor who portrayed Riddler in 'The Batman' pens this psychological origin story. Subic's scribbly, anxious art style mirrors Edward Nashton's unraveling mind. The final puzzle reveals a chilling connection to Bruce Wayne's childhood that even Batman never suspected."
   }
+  ,
+  {
+    "title": "Iron Avenger",
+    "issue": "#45",
+    "writer": "Donny Cates",
+    "penciler": "CAFU",
+    "publisher": "Marvel",
+    "cover": "https://i.pinimg.com/originals/95/d9/20/95d920ade2a64eef837561dc3ddc0314.jpg",
+    "lore": "Tony Stark faces Ultron's rebirth in a battle of minds. As the AI infiltrates global networks, Stark must outthink his own creation before it erases humanity. The arc explores the ethics of artificial intelligence, with CAFU’s art blending cyberpunk aesthetics and classic superhero action."
+  },
+  {
+    "title": "Spider Fury",
+    "issue": "#12",
+    "writer": "Jed MacKay",
+    "penciler": "Patrick Gleason",
+    "publisher": "Marvel",
+    "cover": "https://cdn.marvel.com/content/1x/asm2022026_larraz.jpg",
+    "lore": "Venom threatens New York's skyline as symbiotic offspring swarm skyscrapers. Spider-Man races to sever the hive-mind’s connection, but the true enemy is a corrupted ally. Gleason’s kinetic art amplifies the horror of a city under siege."
+  },
+  {
+    "title": "Doctor Doomrise",
+    "issue": "#6",
+    "writer": "Jonathan Hickman",
+    "penciler": "R.B. Silva",
+    "publisher": "Marvel",
+    "cover": "https://cdn.marvel.com/u/prod/marvel/i/mg/0/04/5fda7def3e917/clean.jpg",
+    "lore": "Victor Von Doom seeks the Infinity Sigil, a relic that could rewrite reality. As cosmic entities intervene, Doom must choose between ultimate power or confronting his own soul. Silva’s intricate designs showcase Doom’s fusion of magic and technology."
+  },
+  {
+    "title": "Web Slayer",
+    "issue": "#77",
+    "writer": "Dan Slott",
+    "penciler": "Olivier Coipel",
+    "publisher": "Marvel",
+    "cover": "https://64.media.tumblr.com/b3aa326499d6e7250d0ee089ff4fa82b/tumblr_p9ex97Ow9R1ttwla3o2_r1_1280.jpg",
+    "lore": "Multiverse spiders unite to stop the Oblivion Queen from unraveling existence. Coipel’s dynamic art captures the chaos of interdimensional warfare, while Slott delivers a love letter to Spider-heroes across realities."
+  },
+  {
+    "title": "Jester's Rage",
+    "issue": "#66",
+    "writer": "Chip Zdarsky",
+    "penciler": "Marco Checchetto",
+    "publisher": "Marvel",
+    "cover": "https://freshcomics.s3.amazonaws.com/cache/c8/88/c8883a2eb6b15ff85905dc742bd89b51.jpg",
+    "lore": "A villain’s origin story unfolds as chaos consumes the city. Zdarsky’s dark humor contrasts with Checchetto’s gritty art, revealing how tragedy twists a man into the Jester—a nemesis without rules."
+  },
+  {
+    "title": "Tomb Raider",
+    "issue": "#50",
+    "writer": "Gail Simone",
+    "penciler": "Nicolás Daniel Selma",
+    "publisher": "Marvel",
+    "cover": "https://media.mycomicshop.com/n_iv/600/869383.jpg",
+    "lore": "Lara Croft battles digital ghosts in a cybernetic warzone where ancient tombs merge with AI constructs. Selma’s art blends archaeology and sci-fi, while Simone crafts a story about preserving history in a digitized world."
+  },
+  {
+    "title": "Mega Might",
+    "issue": "#99",
+    "writer": "Mark Waid",
+    "penciler": "Humberto Ramos",
+    "publisher": "Marvel",
+    "cover": "https://vignette.wikia.nocookie.net/megaman/images/5/58/MegaManArchieC039.jpg/revision/latest?cb=20140625032109",
+    "lore": "The world’s strongest hero falls from grace after a catastrophic failure. Ramos’ exaggerated style underscores the tragedy of a titan brought low, while Waid explores redemption in the face of public scorn."
+  },
+  {
+    "title": "Knight Vengeance",
+    "issue": "#9",
+    "writer": "James Tynion IV",
+    "penciler": "Jorge Jiménez",
+    "publisher": "DC",
+    "cover": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/70/661541ae1cc0b/clean.jpg",
+    "lore": "The Dark Knight faces an underground cult tied to Gotham’s oldest secrets. Jiménez’s gothic shadows heighten the horror as Batman uncovers a conspiracy linking his own lineage to the cult’s origins."
+  },
   
+  {
+    "title": "Flashbolt",
+    "issue": "#18",
+    "writer": "Joshua Williamson",
+    "penciler": "Howard Porter",
+    "publisher": "DC",
+    "cover": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1686849472-91tGH-GCuiL.jpg?crop=1xw:1xh;center,top&resize=980:*",
+    "lore": "Speed vs. time distortion: Flashbolt races to repair reality as temporal storms trap civilians in looping tragedies. Porter’s fractured paneling mirrors the narrative’s mind-bending stakes."
+  },
+  {
+    "title": "Wraithborn",
+    "issue": "#11",
+    "writer": "Mariko Tamaki",
+    "penciler": "Dan Mora",
+    "publisher": "DC",
+    "cover": "https://freshcomics.s3.amazonaws.com/cache/23/f3/23f3477faf6c1174fb5bb31507163da1.jpg",
+    "lore": "Shadow assassins invade the mortal realm, and only the Wraithborn—a reluctant heir to dark power—can stop them. Mora’s sleek designs contrast with Tamaki’s themes of destiny and resistance."
+  },
+  {
+    "title": "Titan Age",
+    "issue": "#13",
+    "writer": "Tom King",
+    "penciler": "Mitch Gerads",
+    "publisher": "DC",
+    "cover": "https://images.darkhorse.com/covers/300/t/tae1.jpg",
+    "lore": "Ancient giants return to reclaim Earth, forcing heroes and villains into an uneasy alliance. Gerads’ cinematic layouts amplify King’s existential dialogue about humanity’s place in the cosmos."
+  },
+  {
+    "title": "Sky Wrath",
+    "issue": "#7",
+    "writer": "G. Willow Wilson",
+    "penciler": "Jamal Campbell",
+    "publisher": "DC",
+    "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534453593/the-song-of-wrath-9781534453593_xlg.jpg",
+    "lore": "Sky cities burn as rebels challenge the floating aristocracy. Campbell’s vibrant colors clash with Wilson’s tale of revolution, where the line between freedom and anarchy blurs."
+  },
+  {
+    "title": "Galactic Ghosts",
+    "issue": "#22",
+    "writer": "Al Ewing",
+    "penciler": "Juann Cabal",
+    "publisher": "Image",
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/space_ghost_001_2024_digital_dekabro_empire_000.jpg",
+    "lore": "Space station Frontier-9 is haunted by AI-generated ghosts of the crew’s lost loved ones. Cabal’s sterile sci-fi meets Ewing’s existential horror in a story about grief and digital immortality."
+  },
+  {
+    "title": "Cyber Force",
+    "issue": "#3",
+    "writer": "Matt Hawkins",
+    "penciler": "Atilio Rojo",
+    "publisher": "Image",
+    "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534310339/cyber-force-awakening-volume-2-9781534310339_lg.jpg",
+    "lore": "AI gone rogue in a neon-soaked dystopia. Rojo’s cybernetic designs pop against Hawkins’ critique of transhumanism, as the Cyber Force battles their own upgrades."
+  },
+  {
+    "title": "StartFinder",
+    "issue": "#14",
+    "writer": "Kieron Gillen",
+    "penciler": "Stephanie Hans",
+    "publisher": "Image",
+    "cover": "https://thehallofcomics.com/cdn/shop/files/PXL_20230609_150633757.jpg?v=1686324469&width=1946",
+    "lore": "Planets collide during a love story between rival explorers. Hans’ painterly art elevates Gillen’s cosmic romance, where personal and galactic stakes intertwine."
+  },
+  {
+    "title": "Quantum Shift",
+    "issue": "#16",
+    "writer": "Jeff Lemire",
+    "penciler": "Andrea Sorrentino",
+    "publisher": "Image",
+    "cover": "https://m.media-amazon.com/images/I/81UmuTKApqL.SL1500.jpg",
+    "lore": "Scientists gain superpowers from a lab accident, but their bodies are destabilizing. Sorrentino’s surreal layouts mirror Lemire’s exploration of identity and sacrifice."
+  },
+  {
+    "title": "Night Howler",
+    "issue": "#30",
+    "writer": "Cullen Bunn",
+    "penciler": "Andrea Mutti",
+    "publisher": "Dark Horse",
+    "cover": "https://lairofreviews.com/wp-content/uploads/2021/09/the-night-howler-main.jpg",
+    "lore": "A werewolf detective hunts a coven using lycanthropy as blackmail. Mutti’s noir-influenced inks drench the story in shadows, while Bunn delivers a twist on classic monster tropes."
+  },
+  {
+    "title": "Shadow Claw",
+    "issue": "#2",
+    "writer": "Kelly Thompson",
+    "penciler": "Leonardo Romero",
+    "publisher": "Dark Horse",
+    "cover": "https://cdn5.vectorstock.com/i/1000x1000/52/39/comic-book-cover-template-vector-17835239.jpg",
+    "lore": "A dimension-hopping hunter becomes the hunted. Romero’s bold lines and Thompson’s snappy dialogue create a pulpy adventure with a modern edge."
+  },
+  {
+    "title": "Dragon Soul",
+    "issue": "#27",
+    "writer": "Greg Pak",
+    "penciler": "Daniel Bayliss",
+    "publisher": "Boom!",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651854768i/61043765.jpg",
+    "lore": "Eastern magic clashes with ancient dragons in a battle for spiritual dominion. Bayliss’ intricate designs complement Pak’s mythic storytelling."
+  },
+  {
+    "title": "Lunar Boy",
+    "issue": "#5",
+    "writer": "Marjorie Liu",
+    "penciler": "Sana Takeda",
+    "publisher": "Boom!",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710341401i/196774351.jpg",
+    "lore": "A girl bonds with the Moon’s spirit to heal her fractured world. Takeda’s ethereal art and Liu’s poetic prose create a fairy tale for the modern age."
+  },
+  {
+    "title": "Crusader from Mars",
+    "issue": "#1",
+    "writer": "Chris Ryall",
+    "penciler": "Alex Maleev",
+    "publisher": "IDW",
+    "cover": "https://media.mycomicshop.com/n_iv/600/784961.jpg",
+    "lore": "The universe’s last hope awakens on a war-torn Mars. Maleev’s gritty realism grounds Ryall’s epic about destiny and defiance."
+  },
+  {
+    "title": "Astral Surge",
+    "issue": "#8",
+    "writer": "Ram V",
+    "penciler": "Christian Ward",
+    "publisher": "IDW",
+    "cover": "https://m.media-amazon.com/images/I/51lh81ggIjL.SL1200.jpg",
+    "lore": "Time travelers wage psychic wars across eras. Ward’s kaleidoscopic art visualizes Ram V’s mind-bending narrative about causality and choice."
+  },
+  {
+    "title": "Solo",
+    "issue": "#10",
+    "writer": "Matt Kindt",
+    "penciler": "Tomas Giorello",
+    "publisher": "Valiant",
+    "cover": "https://i.ebayimg.com/images/g/C0QAAOSw435kL5~I/s-l400.jpg",
+    "lore": "A black-ops mission exposes alien tech that could end humanity. Giorello’s hyper-detailed action sequences amplify Kindt’s espionage thriller."
+  },
+  {
+    "title": "Blade Slinger",
+    "issue": "#32",
+    "writer": "Rick Remender",
+    "penciler": "Bengal",
+    "publisher": "Image",
+    "cover": "https://theslingsandarrows.com/wp-content/uploads/2020/10/Blade-by-Guggenheim.jpg",
+    "lore": "Demonic cowboys battle across a wild-west dimension. Bengal’s frenetic linework matches Remender’s blend of horror and spaghetti-western tropes."
+  }
 ]
   ,
   "trendig":[
