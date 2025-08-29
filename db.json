@@ -2384,16 +2384,6 @@
     "lore": "The power of the tiger is mine to command."
   },
   {
-    "name": "Power Man",
-    "alias": "Victor Alvarez",
-    "powers": ["Superhuman strength", "Durability", "Chi absorption"],
-    "firstAppearance": "Shadowland: Power Man #1 (2010)",
-    "affiliations": ["Heroes for Hire"],
-    "universe": "Marvel",
-    "image": "https://c8.alamy.com/comp/HPB1GD/super-hero-in-a-cartoon-popart-comicbook-style-HPB1GD.jpg",
-    "lore": "I'm the new Power Man."
-  },
-  {
     "name": "Blue Beetle",
     "alias": "Jaime Reyes",
     "powers": ["Scarab armor", "Weapon creation", "Flight"],
@@ -2425,16 +2415,6 @@
     "lore": "I'm stretchy!"
   },
   {
-    "name": "The Question",
-    "alias": "Vic Sage",
-    "powers": ["Master detective", "Martial arts", "Peak human condition"],
-    "firstAppearance": "Blue Beetle #1 (1967)",
-    "affiliations": [],
-    "universe": "DC",
-    "image": "https://64.media.tumblr.com/24212fe734e7a19e47a7308f42581661/tumblr_phtzuwz8CA1s2u4wdo1_1280.jpg",
-    "lore": "Who is the Question?"
-  },
-  {
     "name": "Swamp Thing",
     "alias": "Alec Holland",
     "powers": ["Plant manipulation", "Superhuman strength", "Immortality"],
@@ -2454,17 +2434,6 @@
     "image": "https://i.pinimg.com/736x/d0/03/39/d00339a2e6f87a8c02e341f191af0beb.jpg",
     "lore": "I'm the one who steps from the shadows, all trenchcoat and cigarette."
   },
-  {
-    "name": "Zatanna",
-    "alias": "Zatanna Zatara",
-    "powers": ["Magic", "Reality warping", "Spell casting"],
-    "firstAppearance": "Hawkman #4 (1964)",
-    "affiliations": ["Justice League"],
-    "universe": "DC",
-    "image": "https://i.pinimg.com/736x/87/c1/15/87c115e1dd96bb556427742a7d708245.jpg",
-    "lore": "!em rof efil ym sseccus ot srewop ym esu I"
-  },
-
   {
     "name": "Animal Man",
     "alias": "Buddy Baker",
@@ -2594,7 +2563,7 @@
     "firstAppearance": "Batman: The Animated Series (1992)",
     "affiliations": ["Suicide Squad"],
     "universe": "DC",
-    "image": "https://i.pinimg.com/736x/cb/1d/ec/cb1decd2473f6906b2268505122871e6.jpg",
+    "image": "https://i.pinimg.com/736x/58/d0/a4/58d0a438e827cda67726d1e487896e71.jpg",
     "lore": "I'm Harley freakin' Quinn!"
   },
   {
